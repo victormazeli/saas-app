@@ -1,0 +1,800 @@
+body{
+    margin: 0; padding: 0;
+    overflow-x: hidden; padding-bottom: -10%;
+}
+body .navbar-default{
+    border: 2px solid white; 
+     background-color: white;
+}
+.navbar-default .navbar-right{
+    background-color: #651fff; border-top-left-radius: 150px;
+  width: 64.7%;padding-bottom: 3%; 
+}
+ .navbar-default .navbar-nav li a{
+    color: white; text-decoration: none;
+    font-size: 16px;
+}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active,
+.navbar-default .navbar-nav li a:focus{
+text-decoration: none; color: white;
+}
+
+li:nth-of-type(1){
+margin-left: 36%; margin-right: 6%; padding-top: 2%;
+}
+li:nth-of-type(2){
+        margin-right: 6%; padding-top: 2%;
+}
+li:nth-of-type(3){
+    padding-top: 2%;
+}
+.navbar-default .navbar-nav li:nth-of-type(3) a{
+    border: 2px solid white;
+    border-radius: 17px;
+    padding: 9px 25px; margin-top:5%;
+}
+
+
+
+
+.navbar-default .navbar-heading{
+    margin-left: 7%;
+}
+.navbar-default .navbar-heading .navbar-brand{
+    color: #651fff; font-size: 45px;
+    font-weight: bolder; padding-top: 3%;
+}
+.glyphicon-triangle-right{
+    -ms-transform: rotate(35deg);
+    -webkit-transform: rotate(35deg);
+    transform: rotate(35deg);
+    color: #ff6666; font-size: 18px;
+     margin-left: 0%;
+}
+
+.col-md-8 img:nth-of-type(1){
+    position: absolute;
+    margin-top: -2.3%;
+}
+
+.col-md-8 img:nth-of-type(2){
+    position: relative; margin-left: 25%;
+   
+}
+
+.class1 h3{
+font-size: 50px; font-weight: bold;
+line-height: 150%; margin-left: 23%;
+}
+.class1 p{
+    margin-left: 23%; font-size: 19px;
+    font-weight: bold; 
+}
+
+.firstbtn{
+    background-color: #651fff;
+    color: white; margin-left: 23%;
+    width: 60%; padding-bottom: 5%;
+    padding-top: 5%; font-size: 20px;
+}
+.col-md-4 .btn-lg:hover, .col-md-4 .btn-lg:active, .col-md-4 .btn-lg:focus{
+    outline: none; color: white;
+}
+
+.container h4{
+    text-align: center; color: #651fff;
+    font-weight: bold; font-size: 23px;
+    margin-top: -0.2%;
+}
+.container .glyphicon-triangle-right{
+    -ms-transform: rotate(35deg);
+    -webkit-transform: rotate(35deg);
+    transform: rotate(35deg);
+    color: #ff6666; font-size: 18px;
+   margin-left: 50%; 
+}
+.container p{
+    text-align: center; font-size: 15px;
+}
+.col-md-4 img{
+   margin-left: 24%;
+}
+.container .col-md-4 h4{
+    color: black; font-weight: bold;
+    font-size: 23px; text-align: center;
+}
+
+.container .col-md-4 p{
+    color: #651fff; text-align: center;
+    font-weight: lighter; font-size: 15px;
+    opacity: 0.7;
+}
+form{
+    background-color: #19334d;
+    color: white; width: 65%; float: right;
+    border-radius: 15px; padding-left: 6%;
+}
+form input{
+    color: grey; font-size: 13px; width: 65%;
+    padding: 12px 20px; position: relative;
+    border-radius: 40px; padding-right: 9%;
+    border: 0%; outline: none;
+}
+form input:active, form input:focus{
+    outline: none;
+}
+.col-md-8 form h4{
+    font-weight: 23px; font-weight: bold;
+    color: white; float: left;
+}
+.col-md-8 form p{
+    color: white; float: left; 
+    font-size: 15px; opacity: 0.7;
+}
+.col-md-8 form button{
+    background-color: #bfbfbf; position: relative;
+    width: 30%; font-size: 15px; margin-top: -10.3%;
+    float: right; margin-right: 15%; padding: 11.9px 13px;
+    border-radius: 40px; border: 0%; outline: none;
+
+}
+
+section.section1 div.col-md-8 form button.btn-lg:hover, section.section1 div.col-md-8 form button.btn-lg:focus,
+section.section1 div.col-md-8 form button.btn-lg:active{
+    color: white; text-decoration: none;
+    outline: none;
+
+}
+
+.container-fluid{
+    position: relative;
+    margin-bottom: 28%;
+}
+.container-fluid .wave{
+    position: absolute;
+    padding-bottom: -30%;
+}
+
+.col-md-3:nth-of-type(1){
+    margin-left: 23%; margin-right: 5%;
+    padding-bottom: 6%;  border-radius: 15px;
+     box-shadow: 0px 3px 0px 4px #bfbfbf;
+     background-color: white;
+}
+.col-md-3:nth-of-type(2){
+    padding-bottom: 6%; padding-bottom: 6%;
+     box-shadow: 0px 3px 0px 4px #bfbfbf;
+    border-radius: 15px;  background-color: white;
+}
+.col-md-3 .glyphicon-pushpin{
+    margin-top: -10%;
+}
+.col-md-3 .rate{
+ font-size: 40px; 
+    font-weight: bold; 
+}
+.col-md-3 p:nth-of-type(1){
+    color: #00b3b3; text-align: center;
+    margin-bottom: -2%;
+}
+.col-md-3 p:nth-of-type(2){
+font-weight: bold; font-size: 22px;
+text-align: center;
+}
+.col-md-3 img{
+    margin-left: 36.5%; margin-bottom: 2%;
+}
+
+.col-md-3 p:nth-of-type(3), .col-md-3 p:nth-of-type(4), .col-md-3 p:nth-of-type(5){
+text-align: center;
+} 
+.col-md-3 p:nth-of-type(3) span,
+ .col-md-3 p:nth-of-type(4) span,
+  .col-md-3 p:nth-of-type(5) span{
+      color: #00b3b3; margin-right: 2%; 
+  }
+  .col-md-3 .btn-lg{
+      padding: 10px 22px; color: white; background-color: #651fff;
+      margin-left: 21%; font-weight:  bold;
+  }
+  section.section1 div.container-fluid div.row div.col-md-3:nth-of-type(1) button.btn-lg:focus,
+  section.section1 div.container-fluid div.row div.col-md-3:nth-of-type(1) button.btn-lg:active,
+  section.section1 div.container-fluid div.row div.col-md-3:nth-of-type(1) button.btn-lg:hover{
+    color: white; text-decoration: none;
+    outline: none;
+  } 
+  .col-md-3 h5{
+    color: #00b3b3; text-align: center;
+    font-weight: bold;
+  }
+  .pin2{
+      margin-left: 48%; margin-bottom: 3%;
+  }
+  .col-md-3:nth-of-type(2) button.btn-lg{
+      background-color: #00b3b3; color: white;
+  }
+  section.section1 div.container-fluid div.row div.col-md-3:nth-of-type(2) button.btn-lg:focus,
+  section.section1 div.container-fluid div.row div.col-md-3:nth-of-type(2) button.btn-lg:active,
+  section.section1 div.container-fluid div.row div.col-md-3:nth-of-type(2) button.btn-lg:hover{
+    color: white; text-decoration: none;
+    outline: none;
+  }
+
+
+  .col-md-7 h4{
+    color: #651fff; float: left;
+    font-size: 30px; text-align: left;
+    margin-top: -1%; margin-bottom: 5%;
+    line-height: 162%;
+  }
+  .col-md-7 span.glyphicon-triangle-right{
+    -ms-transform: rotate(36deg);
+    -webkit-transform: rotate(36deg);
+    transform: rotate(36deg);
+    color: #ff6666; font-size: 18px;
+     margin-left: 0%; margin-bottom: 0%;
+}
+.col-md-7 p{
+    text-align: left; float: left;
+    margin-left: 0; font-size: 16px;
+    line-height: 160%; margin-bottom: 9%;
+}
+.col-md-7 h5{
+    text-align: left; float: left;
+    margin-left: 0; font-weight: bold;
+    font-size: 22px;
+}
+ .col-md-7 button.btn-lg:nth-of-type(1){
+    background-color: #651fff; float: left;
+    color: white;  margin-right: 3%; margin-left: -31%;
+    width: 40%; padding: 2.5% 5%; margin-top: 19%;
+    
+}
+.col-md-7 button.btn-lg:hover, 
+.col-md-7 button.btn-lg:active, 
+.col-md-7 button.btn-lg:focus{
+color: white; text-decoration: none; outline: none;
+}
+ .col-md-7 button.btn-lg:nth-of-type(2){
+    color: #651fff; border: 4px solid #651fff;
+    background-color: white; margin-left:0%;
+    width: 40%; margin-top: 19%;
+    float: left;  padding: 2.5% 5%;
+}
+.btn-lg img{
+    margin-right: 5%;
+}
+.col-md-5 img{
+   float: right;
+}
+
+
+
+
+.col-md-6 span.glyphicon-triangle-right{
+    -ms-transform: rotate(36deg);
+    -webkit-transform: rotate(36deg);
+    transform: rotate(36deg);
+    color: #ff6666; font-size: 18px;
+     margin-left: 0%; margin-bottom: 0%;
+}
+.col-md-6 h4{
+    text-align: left; float: left;
+    margin-left: 0; font-weight: bold;
+    font-size: 30px; color: black;
+}
+.col-md-6 p{
+    text-align: left; float: left;
+    margin-left: 0; font-size: 16px;
+}
+.col-md-6 button.btn-lg{
+    background-color: #651fff; float: left;
+    color: white;  margin-right: 3%; margin-left: -31%;
+    width: 40%; padding: 3% 5%; margin-top: 12%;
+}
+.col-md-6 button.btn-lg:hover, 
+.col-md-6 button.btn-lg:active, 
+.col-md-6 button.btn-lg:focus{
+color: white; text-decoration: none; outline: none;
+}
+.col-md-6:nth-of-type(2) img:nth-of-type(2){
+    margin-top: -65%; width: 100%;
+    margin-left: 15%;
+}
+.col-md-6:nth-of-type(2) img:nth-of-type(1){
+ width: 80%;
+}
+
+footer{
+    color: white; background-color: #19334d;
+   margin-top: -50%; padding-bottom: 2%;
+}
+footer ul{
+    list-style-type: none;
+}
+footer .col-md-4:nth-of-type(1) li{
+    display: block; margin-bottom: 4%;
+    text-align: left;
+}
+footer ul:nth-of-type(1){
+    margin-left: -16%; 
+}
+footer .col-md-4:nth-of-type(1) li:nth-of-type(1){
+    font-size: 40px; color: #651fff;
+    margin-left: 0px;  font-weight: bolder;
+}
+footer .container .glyphicon-triangle-right{
+    -ms-transform: rotate(35deg);
+    -webkit-transform: rotate(35deg);
+    transform: rotate(35deg);
+    color: #ff6666; font-size: 18px;
+     margin-left: 2%;
+}
+footer .col-md-4:nth-of-type(1) li:nth-of-type(2),
+footer .col-md-4:nth-of-type(1) li:nth-of-type(3)
+{
+    margin-left: 0px; opacity: 0.6;
+    font-size: 20px;
+}
+
+footer .col-md-4:nth-of-type(2) li{
+    display: block; margin-bottom: 4%;
+    text-align: center;  margin-left: 0px;
+     opacity: 0.8; font-size: 20px;
+}
+footer .col-md-4:nth-of-type(2) li a{
+    text-decoration: none; color: white;
+    opacity: 0.8;
+}
+a:hover, a:active{
+    text-decoration: none; color: white;
+    opacity: 0.8; 
+}
+footer .col-md-4:nth-of-type(3) li{
+    display: block; margin-bottom: 6%;
+    text-align: ;  margin-left: 0px;
+     opacity: 0.8;
+}
+footer .col-md-4:nth-of-type(3) li:nth-of-type(1) a:first-of-type{
+ margin-left: 25%; font-size: 18px;
+ float: left; color: white; opacity: 0.9;
+ text-decoration: none;
+}
+footer .col-md-4:nth-of-type(3) li:nth-of-type(1) a:last-of-type{
+    float: right; color: white; opacity: 0.9;
+    text-decoration: none; border: 2px solid white;
+    padding: 2% 5%; border-radius: 40px;
+    margin-top: -2%; font-weight: bold;
+}
+footer .col-md-4:nth-of-type(3) li:nth-of-type(2) a{
+    font-size: 20px; margin-left: 17%;
+    float: left; color: white; opacity: 0.9;
+    text-decoration: none;
+}
+footer .col-md-4:nth-of-type(3) li:nth-of-type(2) a:nth-of-type(1){
+    margin-left: 25%;
+}
+footer .container p{
+    margin-top: 12%; text-align: center;
+    font-size: 17px;
+}
+
+
+.header2, .section2, .footer2{
+    display: none;
+}
+
+@media screen and (max-width: 1024px){
+  .header1, .section1, .footer1{
+      display: none;
+  }  
+body{
+    margin: 0; padding: 0;
+    overflow-x: ;
+}
+  .header2, .section2, .footer2{
+      display: block;
+  }
+  .header2 img:nth-of-type(1){
+      position: relative; margin-right: -90%;
+      width: 100%; padding-bottom: 30%;
+  }
+
+  .header2 img:nth-of-type(2){
+    position: absolute; width: 80%;
+    margin-top: 5%;
+}
+
+.header2 .container-fluid{
+    position: relative;
+    margin-top: -146%;
+    color: white;
+}
+
+.header2 ul{
+    list-style-type: none; 
+    margin: 0; padding: 0;
+    overflow: hidden;
+}
+.header2 ul li:nth-of-type(1){
+float: left; margin-left: 0%; margin-top: 0%;
+}
+
+.header2 ul li:nth-of-type(2){
+    float: right; margin-top: 1%;
+    margin-right: 0;
+    }
+    .header2 ul li a{
+       display: inline; padding: 14px 16px;
+       text-decoration: none; color: white;
+        font-size: 50px; 
+       
+}
+.header2 ul li .zeus{
+     font-weight: 700;
+}
+.header2 ul li .glyphicon-triangle-right{
+    -ms-transform: rotate(40deg);
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+    color: #ff6666; font-size: 30px;
+     margin-left: -8%; 
+}
+.header2 .glyphicon-menu-hamburger{
+    display: inline; padding: 14px 16px;
+    text-decoration: none; color: white;
+     font-size: 45px;
+}
+.header2 .container-fluid h4{
+    font-size: 80px; font-weight: bold;
+    text-align: left; float: left;
+    color: white; line-height: 158%;
+    margin-top: 5%; margin-left: 2%;
+}
+.header2 .container-fluid p{
+    font-size: 35px; text-align: left;
+    float: left; color: white;
+    margin-top: 50%; margin-left: -52%;
+    opacity: 0.8; 
+}
+.header2 .container-fluid button{
+    margin-top: 67%; width: 45%;
+    background-color: white; 
+    color: #651fff; font-size: 35px;
+    font-weight: bold; margin-left: -52%;
+    padding-bottom: 4%; padding-top: 4%;
+    border-radius: 40px;
+}
+header.header2 div.container-fluid button.btn-lg:hover,
+header.header2 div.container-fluid button.btn-lg:focus,
+header.header2 div.container-fluid button.btn-lg:active{
+    outline: none; color: #651fff; text-decoration: none;
+}
+.section2 .container-fluid h4:nth-of-type(1){
+    font-size: 35px; font-weight: 700;
+    text-align: center; color: #651fff;
+    margin-top: -1%;
+}
+.section2 .container-fluid .glyphicon-triangle-right:nth-of-type(1){
+ margin-left: 49%; font-size: 35px;
+  color: #ff6666;
+ -ms-transform: rotate(40deg);
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+}
+.section2 .container-fluid p:nth-of-type(1){
+    text-align: center; font-size: 23px;
+line-height: 160%; margin-top: 2%;
+opacity: 0.9;
+}
+
+/*benefits of our services*/
+.section2 .container-fluid .row:nth-of-type(1) .col-md-6:nth-of-type(1){
+    float: left; padding-right: 10%;
+   margin-left: 10%;
+}
+.section2 .container-fluid .row:nth-of-type(1) .col-md-6:nth-of-type(2),
+.section2 .container-fluid .row:nth-of-type(2) .col-md-6:nth-of-type(2){
+    float: right; margin-right: 10%;
+ }
+ .section2 .container-fluid .row:nth-of-type(2) .col-md-6:nth-of-type(1){
+float: left; margin-left: 10%;
+ }
+ 
+ .section2 .container-fluid .row:nth-of-type(1) .col-md-6:nth-of-type(1) img{
+    width: 130%;
+}
+.section2 .container-fluid .row:nth-of-type(1) .col-md-6:nth-of-type(2) img,
+.section2 .container-fluid .row:nth-of-type(2) .col-md-6:nth-of-type(1) img,
+.section2 .container-fluid .row:nth-of-type(2) .col-md-6:nth-of-type(2) img{
+    width: 100%;
+}
+ .section2 .container-fluid .row:nth-of-type(1) .col-md-6:nth-of-type(1) h5{
+    font-size: 35px; font-weight: 700;
+    text-align: center; margin-right: -25%;
+ }
+ .section2 .container-fluid .row:nth-of-type(1) .col-md-6:nth-of-type(2) h5,
+ .section2 .container-fluid .row:nth-of-type(2) .col-md-6:nth-of-type(1) h5,
+ .section2 .container-fluid .row:nth-of-type(2) .col-md-6:nth-of-type(2) h5{
+     font-size: 35px; font-weight: 700;
+     text-align: center;
+ }
+ .section2 .container-fluid .row:nth-of-type(1) .col-md-6:nth-of-type(1) p{
+     font-size: 23px; float: right;
+     text-align: center; 
+ }
+
+/*mobile form*/
+.section2 .container-fluid .mobileForm{
+    background-color: #19334d;
+    color: white; width: 80%; float: left;
+    border-radius: 50px; padding-left: 6%;
+    margin-left: 10%; padding-bottom: 3%;
+}
+section.section2 .container-fluid form.mobileForm p{
+    text-align: left; opacity: 0.7;
+}
+section.section2 .container-fluid form.mobileForm h4{
+    color: white; float: left; font-size: 35px;
+}
+section.section2 .container-fluid form.mobileForm input{
+    color: grey; font-size: 20px; width: 65%;
+    padding: 15px 20px; position: relative;
+    border-radius: 40px; padding-right: 9%;
+    border: 0%; outline: none; padding-left: 26px;
+}
+section.section2 .container-fluid form.mobileForm input:active,
+ section.section2 .container-fluid form.mobileForm input:focus{
+    outline: none;
+}
+
+section.section2 .container-fluid form.mobileForm button{
+    background-color: #bfbfbf; position: relative;
+    width: 30%; font-size: 24px; margin-top: -8.5%;
+    float: right; margin-right: 15%; padding: 13px 13px;
+    border-radius: 40px; border: 0%; outline: none;
+
+}
+
+section.section2 .container-fluid form.mobileForm button:hover, section.section2 .container-fluid form.mobileForm button:focus,
+section.section2 .container-fluid form.mobileForm button:active{
+    color: white; text-decoration: none;
+    outline: none;
+
+}
+
+section.section2 .container-fluid .preCard .glyphicon-triangle-right{
+    margin-top: 15%; 
+}
+.section2 .container-fluid .wavy{
+    width: 99%; position: absolute; overflow-x: hidden;
+    margin-left: -1%;
+}
+.section2 .container-fluid .mainCards{
+    position: relative; margin-top: 13%;
+}
+
+section.section2 div.container-fluid div.mainCards div.row div.col-md-10{
+    width: 80%; margin-left: 10%; 
+    border-radius: 50px;
+    box-shadow: 2px 10px 2px 11px #bfbfbf;
+    background-color: white;
+    padding-bottom: 20%;
+    margin-bottom: 5%;
+}
+.section2 .container-fluid .mainCards .row .col-md-10:nth-of-type(2){
+   margin-bottom: 13%; padding-bottom: 20%;
+}
+.section2 .container-fluid .mainCards .row .col-md-10 img{
+margin-left: 41%; width: 20%;
+}
+.section2 .container-fluid .mainCards .row .col-md-10 p:nth-of-type(1){
+    color: #00b3b3; text-align: center; margin-top: 5%;
+    
+}
+.section2 .container-fluid .mainCards .row .col-md-10 p:nth-of-type(1) .rate{
+    color: #00b3b3; font-weight: bold;
+     font-size: 60px; 
+}
+
+.section2 .container-fluid .mainCards .row .col-md-10 p:nth-of-type(2){
+    color: #00b3b3; text-align: center; color: black;
+    font-size: 40px; font-weight: 800; margin-bottom: 13%;
+}
+
+.section2 .container-fluid .mainCards .row .col-md-10 p:nth-of-type(3), 
+.section2 .container-fluid .mainCards .row .col-md-10 p:nth-of-type(4), 
+.section2 .container-fluid .mainCards .row .col-md-10 p:nth-of-type(5){
+    text-align: center; font-size: 35px; margin-left: -2%;
+}
+.glyphicon-ok{
+    color: #00b3b3; margin-right: 2%;
+}
+.section2 .container-fluid .mainCards .row .col-md-10:nth-of-type(1) button{
+    background-color: #651fff; color: white;
+    font-size: 37px; padding: 3.5% 4%;
+    margin-left: 23%; width: 54%; margin-top: 10%;
+    border-radius: 25px;
+}
+.section2 .container-fluid .mainCards .row .col-md-10:nth-of-type(2) button{
+    background-color: #00b3b3; color: white;
+    font-size: 37px; padding: 3.5% 4%;
+    margin-left: 23%; width: 54%; margin-top: 10%;
+    border-radius: 25px;
+}
+.section2 .container-fluid .mainCards .row .col-md-10 button:hover, 
+.section2 .container-fluid .mainCards .row .col-md-10 button:active,
+.section2 .container-fluid .mainCards .row .col-md-10 button:focus{
+    outline: none; text-decoration: none; color: white;
+}
+.section2 .container-fluid .mainCards .row .col-md-10:nth-of-type(2) .pin2{
+    font-weight: bold; font-size: 30px;
+}
+.section2 .container-fluid .mainCards .row .col-md-10:nth-of-type(2) h5{
+    text-align: center; font-size: 35px;
+     color: #00b3b3; font-weight: bold;
+}
+
+
+
+
+
+
+section.section2 div.container-fluid div.mainCards .H4{
+    color: #651fff; text-align: center;
+    font-size: 40px; text-align: left;
+    margin-top: -1%; margin-bottom: 2%;
+  }
+  section.section2 div.container-fluid div.mainCards span.glyphicon-triangle-right{
+    -ms-transform: rotate(36deg);
+    -webkit-transform: rotate(36deg);
+    transform: rotate(36deg);
+    color: #ff6666; font-size: 35px;
+     margin-left: 50%; margin-bottom: 0%;
+}
+section.section2 div.container-fluid div.mainCards p.ad{
+    text-align: center;
+    margin-left: 0; font-size: 32px;
+    line-height: 160%; margin-bottom: 0%;
+}
+section.section2 div.container-fluid div.mainCards h5.ad2{
+    text-align: center; font-size: 45px;
+    margin-left: 0; font-weight: 750;
+    margin-bottom: 12%;
+}
+section.section2 div.container-fluid div.mainCards button.btn-lg:nth-of-type(1){
+    background-color: #651fff; float: left;
+    color: white; font-size: 35px;
+    width: 43%; padding: 3% 5%; margin-right: 4.5%;
+     border-radius: 30px; margin-left: 4.5%;
+}
+section.section2 div.container-fluid div.mainCards button.btn-lg:hover, 
+section.section2 div.container-fluid div.mainCards button.btn-lg:active, 
+section.section2 div.container-fluid div.mainCards button.btn-lg:focus{
+color: white; text-decoration: none; outline: none;
+}
+section.section2 div.container-fluid div.mainCards button.btn-lg:nth-of-type(2){
+    color: #651fff; padding: 3% 5%;
+    background-color: white; margin-left:0%;
+    width: 43%; border: 4px solid #651fff;
+    float: left;  font-size: 33px; border-radius: 30px;
+}
+
+.btn-lg img{
+    margin-right: 7%; width: 12%;
+}
+section.section2 div.container-fluid div.mainCards img.phone{
+   width: 70%; margin-left: 15%;
+   margin-top: 13%;
+}
+
+.last-triangle{
+-ms-transform: rotate(36deg);
+-webkit-transform: rotate(36deg);
+transform: rotate(36deg); margin-left: 5%;
+color: #ff6666; font-size: 40px;
+margin-bottom: 0%;
+}
+.ad3{
+    font-size: 45px; font-weight: 800;
+    float: left; margin-left: 5%; margin-top: -0.5%;
+                "
+}
+.lastRow p{
+    font-size: 30px; margin-left: 5%;
+}
+.lastRow img:nth-of-type(1){
+    position: absolute; width: 60%;
+    margin-top: -20%; margin-left: 40%;
+    overflow-x: hidden;
+}
+.lastRow img:nth-of-type(2){
+    position: relative; width: 35%;
+    margin-left: 55%; margin-top: -10%;
+}
+
+.lastRow  button{
+    background-color: #651fff;
+    color: white; width: 44%;
+   font-size: 30px; padding: 4% 6%;
+   border-radius: 35px;
+}
+section.section2 div.lastRow button.btn-lg:focus, section.section2 div.lastRow button.btn-lg:hover,
+section.section2 div.lastRow button.btn-lg:active{
+    outline: none; color: white; 
+    text-decoration: none;
+}
+
+footer.footer2{
+    background-color: #19334d;
+    color: white; margin-top: 20%;
+    padding-top: 5%; padding-left: 2%;
+    padding-bottom: 2%;
+}
+.footer2 p:nth-of-type(1){
+    font-size: 90px; margin-left: 7%;
+    font-weight: 900; color: #651fff;
+    margin-bottom: 4%;
+}
+.footer2 p:nth-of-type(1) .glyphicon-triangle-right{
+    margin-left: 2%; font-size: 40px;
+}
+.footer2 p:nth-of-type(2),
+.footer2 p:nth-of-type(3){
+font-size: 40px; color: white;
+margin-left: 7%; opacity: 0.8;
+margin-bottom: 3%;
+}
+.footer2 p:nth-of-type(3){
+    margin-bottom: 10%;
+}
+
+.footer2 p:nth-of-type(4),
+.footer2 p:nth-of-type(5),
+.footer2 p:nth-of-type(6){
+    font-size: 40px; color: white;
+    margin-left: 5%; opacity: 0.8;
+    margin-bottom: 3%;
+}
+.footer2 p:nth-of-type(6){
+    margin-bottom: 10%;
+}
+.footer2 p:nth-of-type(7),
+.footer2 p:nth-of-type(8){
+    margin-left: 3%; margin-bottom: 10%;
+}
+
+.footer2 p:nth-of-type(7) a:nth-of-type(1){
+    color: white; font-size: 45px;
+    opacity: 0.8;
+}
+.footer2 p:nth-of-type(7) a:nth-of-type(2){
+    color: white; font-size: 45px;
+    opacity: 0.8; border: 4px solid white;
+    border-radius: 50px; margin-left: 23%;
+    padding: 2.5% 8%;
+}
+.footer2 p a{
+    color: white;
+}
+.footer2 p a:hover, .footer2 p a:active, .footer2 p a:focus{
+    color: white; text-decoration: none;
+}
+
+.footer2 p:nth-of-type(8) a:nth-of-type(1) img{
+    width: 4%; margin-right: 18%;
+}
+.footer2 p:nth-of-type(8) a:nth-of-type(3) img,
+.footer2 p:nth-of-type(8) a:nth-of-type(4) img{
+    width: 6%; margin-right: 18%;
+}
+
+.footer2 p:nth-of-type(8) .glyphicon-camera{
+    font-size: 45px; opacity: 0.8; 
+    margin-bottom: -10%; margin-right: 18%;
+}
+.footer2 p:nth-of-type(9){
+    text-align: center; font-size: 35px;
+    opacity: 0.7;
+}
+}
